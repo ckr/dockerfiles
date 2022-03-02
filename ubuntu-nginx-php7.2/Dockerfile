@@ -1,6 +1,6 @@
 FROM justckr/ubuntu-nginx:latest
 
-MAINTAINER Andrey Semikov <andrew.semikov@gmail.com>
+MAINTAINER Constantinos Kouloumbris <c@kouloumbris.com>
 
 # Xdebug Remote Host IP
 ENV XDEBUG_REMOTE_HOST_IP 192.168.65.1
